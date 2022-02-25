@@ -35,3 +35,13 @@ The Project College App is about a College Mobile Application used for accessing
 ![News](https://user-images.githubusercontent.com/68992855/155739933-a70e9839-bcfe-4d27-bb38-dcae90fad073.jpg)
 
 
+
+Now, the Azure Tools I have used are Azure Cosmos DB for MongoDB Client and the name of my CosmosDB Account is mananhathi2661. So, the deployment is done successfully and the screenshot of my Azure Page before and After successful deployment is shown below.
+
+# Azure Page before Deployment
+![Screenshot (263)](https://user-images.githubusercontent.com/68992855/155741092-1a65b9e9-6459-4750-b93c-cfb722437c84.png)
+
+
+# Azure Page after Deployment
+![Screenshot (264)](https://user-images.githubusercontent.com/68992855/155741202-b7744cf7-b4d9-4f7b-afae-ddca6715140b.png)
+
