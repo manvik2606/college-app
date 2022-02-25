@@ -44,4 +44,3 @@ Now, the Azure Tools I have used are Azure Cosmos DB for MongoDB Client and the 
 
 # Azure Page after Deployment
 ![Screenshot (264)](https://user-images.githubusercontent.com/68992855/155741202-b7744cf7-b4d9-4f7b-afae-ddca6715140b.png)
-
