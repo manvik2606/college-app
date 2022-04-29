@@ -1,0 +1,19 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">College App</string>
+
+    <string name="bold" tools:ignore="ReferenceType">@font/latobold</string>
+    <string name="reguler" tools:ignore="ReferenceType">@font/latoregular</string>
+    <string name="light" tools:ignore="ReferenceType">@font/latolight</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="start">Start</string>
+    <string name="close">Close</string>
+    <string name="about_college">Charotar University of Science and Technology – CHARUSAT has been conceived by Shri Charotar Moti Sattavis Patidar Kelavani Mandal to put India on global education map by making Charotar – the Land of Sardar Patel, a Global Education Hub.
+
+Kelavani Mandal, established in 1994, is a non-profit premier trust of India that works with the aim to provide social service through education.</string>
+
+    <string name="fees_link">Fees</string>
+    <string name="result_link">Result</string>
+    <string name="charusat_link">Website</string>
+
+</resources>
